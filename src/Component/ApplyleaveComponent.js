@@ -32,11 +32,11 @@ const ApplyleaveComponent = () => {
       }}
     >
       {/* <Form.Item label="Form Size" name="size">
-        <Radio.Group>
+        <Radio.Group1>
           <Radio.Button value="small">Small</Radio.Button>
           <Radio.Button value="default">Default</Radio.Button>
           <Radio.Button value="large">Large</Radio.Button>
-        </Radio.Group>
+        </Radio.Group1>
       </Form.Item> */}
 
       <Form.Item label="Full Name"
